@@ -1,7 +1,6 @@
 # Soluções dos Exercícios do Livro "Python para Data Science e Machine Learning Descomplicado"
 
-Este repositório contém minhas soluções para os exercícios do livro "Python para Data Science e Machine Learning Descomplicado" de Amílcar Netto e Francisco Maciel, publicado pela Alta Books Editora.
-
+Este repositório contém minhas soluções para os exercícios da primeira parte do livro "Python para Data Science e Machine Learning Descomplicado" de Amílcar Netto e Francisco Maciel, publicado pela Alta Books Editora.
 
 ## Introdução
 
@@ -9,12 +8,22 @@ Este repositório foi criado para armazenar minhas resoluções dos exercícios 
 
 ## Estrutura do Repositório
 
-A estrutura do repositório está organizada por partes do livro:
+A estrutura do repositório está organizada por capítulos da 1ª parte (Introdução à linguagem Python):
 
-1º parte: Introdução à linguage python;
+1. **Capítulo 1: Python para Iniciantes**
+   - Exercícios do 1 ao 5
 
-2º parte: Introdução ao machine learning;
+2. **Capítulo 2: Coleções**
+   - Exercícios do 6 ao 14
 
-3º parte: algoritmos de aprendizagem de maquina;
+3. **Capítulo 3: Estruturas Condicionais**
+   - Exercícios do 15 ao 19
 
-Cada parte contém capítulos que contêm scripts Python correspondentes às soluções dos exercícios daquele capítulo.
+4. **Capítulo 4: Estruturas de Repetição**
+   - Exercícios do 20 ao 24
+
+5. **Capítulo 5: Conversão de Tipos e Funções Personalizadas**
+   - Exercícios do 25 ao 29
+
+Cada capítulo contém scripts Python que correspondem às soluções dos exercícios daquele capítulo.
+
