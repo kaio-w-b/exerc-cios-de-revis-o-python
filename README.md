@@ -15,6 +15,6 @@ A estrutura do repositório está organizada por partes do livro:
 
 2º parte: Introdução ao machine learning;
 
-3º parte: algoritmos de aprendizagem de maquina
+3º parte: algoritmos de aprendizagem de maquina;
 
 Cada parte contém capítulos que contêm scripts Python correspondentes às soluções dos exercícios daquele capítulo.
