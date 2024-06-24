@@ -1,1 +1,1 @@
-# exerc-cios-de-revis-o-python
+# exercios-de-revis-o-python
